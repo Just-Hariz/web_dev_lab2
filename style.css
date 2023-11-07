@@ -1,0 +1,37 @@
+.header{
+    background-color: #62c09f;
+    text-align: center;
+   }
+
+   body{
+        background-color: #20ae7c;
+    }
+
+    table{
+        background-color: #ccf1e4;
+        
+    }
+
+    h1,h2{
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    } 
+
+    .card1{
+        background-color: #a1dbc7;
+        text-align: center;
+    }
+
+    .card2{
+        background-color: #a1dbc7;
+        text-align: center;
+    }
+
+    .footer{
+        background-color: #62c09f;
+        text-align: center;
+       }
+
+    img{
+        border-radius: 10px;
+    }
